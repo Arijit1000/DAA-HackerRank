@@ -45,4 +45,4 @@ public class Solution {
         System.out.println(minComputation(size, files)); 
     } 
 } 
-// code contributed by Abhishek Sharma, 2021 @abhisheks008
+// code contributed by Arijit Goswami
