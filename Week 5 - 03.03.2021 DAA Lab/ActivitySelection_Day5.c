@@ -10,12 +10,12 @@ void printMaxActivities(int s[], int f[], int n)
 {
     int i, j;
     int count = 1;
-    // Code by Abhishek Sharma
+    // Code by Arijit Goswami
     i = 0;
     // code in C
     for (j = 1; j < n; j++)
     {
-    // pyhtonpapa
+    // pythonpapa
     if (s[j] >= f[i])
     {
         count = count + 1;
