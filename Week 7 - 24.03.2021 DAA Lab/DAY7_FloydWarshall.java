@@ -1,5 +1,5 @@
-// Floyd War Shall using Java
-// Author : Abhishek Sharma
+// Floyd WarShall using Java
+// Author : Arijit Goswami
 
 import java.util.*;
 import java.lang.*;
