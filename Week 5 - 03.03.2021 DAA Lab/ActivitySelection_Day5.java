@@ -1,4 +1,4 @@
-// Abhishek Sharma aka Author
+// Author: Arijit Goswami
 // Activity Selection problem using JAVA
 // difficulty : medium
 // score : 10
@@ -49,4 +49,4 @@ class Solution
     }
     
 }
-// code contributed by Abhishek Sharma, 2021 @abhisheks008
+// code contributed by Arijit Goswami
