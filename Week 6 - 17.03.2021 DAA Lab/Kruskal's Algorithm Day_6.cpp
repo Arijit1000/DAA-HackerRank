@@ -1,4 +1,4 @@
-// Author : Abhishek Sharma
+// Author : Arijit Goswami
 // Kruskal's Algorithm using C++
 // Design analysis and Algorithm lab Week 6
 // Difficulty : medium
@@ -36,7 +36,7 @@ void union1(int x, int y)
     int q = root(y);
     id[p] = id[q];
 }
-// Author : Abhishek Sharma
+// Author : Arijit Goswami
 long long kruskal(pair<long long, pair<int, int> > p[])
 {
     int x, y;
@@ -66,7 +66,7 @@ int main()
         cin >> x >> y >> weight;
         p[i] = make_pair(weight, make_pair(x, y));
     }
-    // Author : Abhishek Sharma
+    // Author : Arijit Goswami
     sort(p, p + edges);
     minimumCost = kruskal(p);
     cout << minimumCost << endl;
