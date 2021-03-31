@@ -1,4 +1,4 @@
-// Author : Abhishek Sharma
+// Author : Arijit Goswami
 // Knapsack problem solution using the C language
 // difficulty : medium
 // score : 10
@@ -9,7 +9,7 @@ int max(int a, int b)
 { 
   return (a > b) ? a : b; 
 }
-// Author : Abhishek Sharma
+// Author : Arijit Goswami
 int knapSack(int W, int wt[], int val[], int n)
 {
 
@@ -42,4 +42,4 @@ int main()
     printf("%d", knapSack(W, wt, val, n));
     return 0;
 }
-// Author : Abhishek Sharma
+// Author : Arijit Goswami
