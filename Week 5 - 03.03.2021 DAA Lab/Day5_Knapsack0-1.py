@@ -1,4 +1,4 @@
-# Author : Abhishek Sharma
+# Author : Arijit Goswami
 # Q1. Day5_knapsack0-1 program solution using Python 3
 # difficulty : medium
 # Score : 10
@@ -12,7 +12,7 @@ def knapSack(W, wt, val, n):
     else:
         return max(val[n-1] + knapSack(W-wt[n-1], wt, val, n-1), knapSack(W, wt, val, n-1))
 
-# Author : Abhishek Sharma 
+# Author : Arijit Goswami 
 n = int(input())
 W = int(input())
 wt = list(map(int, input().strip().split()))
