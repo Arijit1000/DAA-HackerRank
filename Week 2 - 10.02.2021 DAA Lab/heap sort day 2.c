@@ -1,5 +1,5 @@
 // Heap Sort using C
-// Author : Abhishek Sharma
+// Author : Arijit Goswami
 
 // Sample input :
 // 5
