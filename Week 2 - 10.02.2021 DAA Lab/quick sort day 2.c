@@ -1,5 +1,5 @@
 // Quick Sort using C language
-// Author : Abhishek Sharma
+// Author : Arijit Goswami
 
 // Input Line :
 // 5
