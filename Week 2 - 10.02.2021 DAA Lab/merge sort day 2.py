@@ -1,5 +1,5 @@
 # Merge Sort using Python
-# Author : Abhishek Sharma
+# Author : Arijit Goswami
 
 # Input Line :
 # 5
