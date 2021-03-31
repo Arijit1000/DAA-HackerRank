@@ -1,5 +1,5 @@
 # binary search 6 in Python
-# author : Abhishek Sharma
+# author : Arijit Goswami
 
 n = int(input())
 user = list(map(int, input().split(" ")))
