@@ -1,4 +1,4 @@
-// Author : Abhishek Sharma
+// Author : Arijit Goswami
 // Activity Selection problem using the C++ language
 // difficulty : medium
 // score : 10
@@ -38,4 +38,4 @@ int main()
     printMaxActivities(s, f, n);
     return 0;
 }
-// Code by, Abhishek Sharma, 2021 @abhisheks008
+// Code by Arijit Goswami
