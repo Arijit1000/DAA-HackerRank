@@ -1,5 +1,5 @@
 # Design Analysis and Algorithms Lab 8
-# Author : Abhishek Sharma
+# Author : Arijit Goswami
 # Date : 31.03.2021
 # Python 3
 
