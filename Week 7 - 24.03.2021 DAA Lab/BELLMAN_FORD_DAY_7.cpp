@@ -3,12 +3,12 @@
 // score : 10
 // Design analysis and algorithm lab 7
 // date : 24.03.2021
-// Code Contributed by, Abhishek Sharma, 2021
+// Code Contributed by Arijit Goswami
 
-// Author : Abhishek SHarma
+// Author : Arijit Goswami
 #include<iostream>
 #include<iomanip>
-// Author : Abhishek Sharma
+
 #define INF 999
 using namespace std;
 int V;
@@ -29,7 +29,7 @@ int isDiagraph() {
    }
    return 0;
 }
-// Author : Abhishek Sharma
+// Author : Arijit Goswami
 int makeEdgeList(edge *eList) {
    int count = -1;
    if(isDiagraph()) {
@@ -87,12 +87,12 @@ int bellmanFord(int *dist, int *pred,int src) {
 
    return 0;
 }
-// Author : Abhishek Sharma
+
 void display(int *dist, int *pred) {
    for(int i = 0; i<V; i++)
       cout<<dist[i]<<" ";
 }
-// Abhisheks008
+
 int main() {
    int source = 0;
    cin>>V;
