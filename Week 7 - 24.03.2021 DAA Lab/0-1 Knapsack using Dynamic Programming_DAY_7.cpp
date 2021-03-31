@@ -1,4 +1,4 @@
-// Author : Abhishek Sharma
+// Author : Arijit Goswami
 // Knapsack Problem using C++ language
 // difficulty : medium
 // score : 10
@@ -29,7 +29,7 @@ int knapSack(int W, int wt[], int val[], int n)
             knapSack(W, wt, val, n - 1));
 }
 
-// Author : Abhishek Sharma
+// Author : Arijit Goswami
 int main()
 {
     int n, W, wt[10], val[10];
@@ -45,4 +45,4 @@ int main()
     cout << knapSack(W, wt, val, n);
     return 0;
 }
-// Author : Abhishek Sharma
+// Author : Arijit Goswami
