@@ -20,7 +20,7 @@ def partition(array, low, high):
     (array[i + 1], array[high]) = (array[high], array[i + 1])
     return i + 1
 
-# author : Abhishek Sharma
+# author : Arijit Goswami
 def quickSort(array, low, high):
     if low < high:
         pi = partition(array, low, high)
