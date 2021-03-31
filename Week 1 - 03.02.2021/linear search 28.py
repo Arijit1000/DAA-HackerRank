@@ -1,5 +1,5 @@
 # Linear Search 28 solution in Python
-# Author : Abhishek Sharma
+# Author : Arijit Goswami
 
 str = input().split(" ")
 length = int(str[0])
