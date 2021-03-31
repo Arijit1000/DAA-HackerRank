@@ -48,7 +48,7 @@ class Graph:
 # Driver Code
 if __name__ == '__main__':
 
-    # Author : Abhishek Sharma
+    # Author : Arijit Goswami
     g = Graph(8) 
     g.addEdge(0, 1) 
     g.addEdge(0, 2) 
