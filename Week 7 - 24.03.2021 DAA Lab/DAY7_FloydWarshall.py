@@ -3,7 +3,7 @@
 # Score : 10
 # Design analysis and algorithms lab 7
 # date : 24.03.2021
-# Code Contributed by, Abhishek Sharma, 2021
+# Code Contributed by Arijit Goswami
 
 
 V = 4
@@ -26,7 +26,7 @@ def printSolution(dist):
                 print ("{}".format((dist[i][j])), end = " "),
             if j == V-1:
                 print ("")
-# Author : Abhishek Sharma
+# Author : Arijit Goswami
 graph = [[0, 11, 1, 6],
         [11, 0, 7, 3],
         [1, 7, 0, 2],
