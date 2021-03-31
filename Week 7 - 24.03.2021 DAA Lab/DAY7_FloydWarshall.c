@@ -1,5 +1,5 @@
-// Floyd War Shall using C
-// Author : Abhishek Sharma
+// Floyd WarShall using C
+// Author : Arijit Goswami
 
 #include<stdio.h>
 #define V 4
