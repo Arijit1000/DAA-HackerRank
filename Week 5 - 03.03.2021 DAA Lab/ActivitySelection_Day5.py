@@ -1,4 +1,4 @@
-# Author : Abhishek Sharma
+# Author : Arijit Goswami
 # Q2. Activity Selection problem using Python 3
 # Design analysis and Algorithm Problems
 # difficulty : medium
@@ -17,7 +17,7 @@ def printMaxActivities(start , finish):
             i = j
     print (z)
 
-# Author : Abhishek Sharma
+# Author : Arijit Goswami
 n = int(input())
 start = list(map(int, input().strip().split()))
 finish = list(map(int, input().strip().split()))
