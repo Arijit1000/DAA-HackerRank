@@ -1,4 +1,4 @@
-// Author : Abhishek Sharma
+// Author : Arijit Goswami
 // Optimal Merge Pattern Problem using JAVA
 // difficulty : medium
 // score : 10
