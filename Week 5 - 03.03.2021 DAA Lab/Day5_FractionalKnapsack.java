@@ -1,4 +1,4 @@
-// Author : Abhishek Sharma
+// Author : Arijit Goswami
 // fractional Knapsack using JAVA of Day 5
 // difficulty : medium
 // score : 10
@@ -91,4 +91,4 @@ public class Solution {
         System.out.println(output);
     }
 }
-// code created by Abhishek Sharma, 2021 @abhisheks008
+// code created by Arijit Goswami
