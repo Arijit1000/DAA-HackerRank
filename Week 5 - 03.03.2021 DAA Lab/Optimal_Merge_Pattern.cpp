@@ -36,7 +36,7 @@ int main()
 { 
     int n = 6; 
     int files[] = { 5, 3, 2, 7, 9, 13 }; 
-    // Author : Abhishek Sharma
+    // Author : Arijit Goswami
     cout << minComputation(n, files); 
     return 0; 
 } 
