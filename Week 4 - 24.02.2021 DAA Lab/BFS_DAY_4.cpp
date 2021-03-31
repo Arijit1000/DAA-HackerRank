@@ -1,4 +1,4 @@
-// Author : Abhishek Sharma
+// Author : Arijit Goswami
 // BFS Day 4 solution
 // language used : C++
 // difficulty : medium
