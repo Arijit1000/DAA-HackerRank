@@ -1,4 +1,4 @@
-# Author : Abhishek Sharma
+# Author : Arijit Goswami
 # Fractional Knapsack using the Python 3
 # Design analysis and algorithm problems
 # difficulty : medium
@@ -15,7 +15,7 @@ class ItemValue:
         self.cost = val // wt
     def __lt__(self, other):
         return self.cost < other.cost
-# Author : Abhishek Sharma
+# Author : Arijit Goswami
 class FractionalKnapSack:
     def getMaxValue(wt, val, capacity):
         iVal = []
@@ -35,7 +35,7 @@ class FractionalKnapSack:
                 capacity = int(capacity - (curWt * fraction))
                 break
         return totalValue
-# driver code : Author : Abhishek Sharma    
+# driver code : Author : Arijit Goswami
 if __name__ == "__main__":
     z = int(input())
     capacity = int(input())
