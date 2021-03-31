@@ -1,4 +1,4 @@
-// Author : Abhishek Sharma
+// Author : Arijit Goswami
 // Optimal Merge Pattern using CPP language
 // Design analysis and algorithm lab problems
 // difficulty : medium
@@ -17,7 +17,7 @@ int minComputation(int size, int files[])
         pq.push(files[i]); 
     } 
     int count = 0; 
-    // Author : Abhishek Sharma
+    // Author : Arijit Goswami
     while(pq.size() > 1) 
     { 
         int first_smallest = pq.top(); 
