@@ -54,7 +54,7 @@ public class Solution {
         return totalValue;
     }
 
-    // pyhtonpapa written JAVA code!
+    // pythonpapa written JAVA code!
     static class ItemValue {
         Double cost;
         double wt, val, ind;
