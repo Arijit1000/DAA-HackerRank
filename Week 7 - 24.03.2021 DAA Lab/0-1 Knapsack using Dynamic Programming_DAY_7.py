@@ -3,7 +3,7 @@
 # Score : 10
 # Design analysis and algorithms lab 7
 # date : 24.03.2021
-# Code contributed by, Abhishek Sharma, 2021
+# Code contributed by Arijit Goswami
 
 def knapSack(W, wt, val, n):
     if n == 0 or W == 0:
@@ -15,7 +15,7 @@ def knapSack(W, wt, val, n):
             val[n-1] + knapSack(
                 W-wt[n-1], wt, val, n-1),
             knapSack(W, wt, val, n-1))
-# Author : Abhishek Sharma
+# Author : Arijit Goswami
 n = int(input())
 W = int(input())
 wt = list(map(int, input().split()))
