@@ -1,5 +1,5 @@
 // Selection Sort using C++
-// Author : Abhishek Sharma
+// Author : Arijit Goswami
 
 #include<iostream>
  
