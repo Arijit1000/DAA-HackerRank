@@ -1,6 +1,6 @@
 // Floyd War Shall problem using C++
 // Design Analysis and Algorithms Lab 7
-// Author : Abhishek Sharma
+// Author : Arijit Goswami
 
 #include <bits/stdc++.h>
 using namespace std;
