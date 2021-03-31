@@ -1,11 +1,11 @@
-// Author : Abhishek Sharma
+// Author : Arijit Goswami
 // Knapsack problem using the JAVA
 // difficulty : medium
 // score : 10
 
 
 import java.util.*;
-// Author : Abhishe SHarma
+// Author : Arijit Goswami
 public class Solution {
     static int max(int a, int b) 
     { 
@@ -43,4 +43,4 @@ public class Solution {
         System.out.println(knapSack(W, wt, val, n));
     }
 }
-// Code by Abhishek Sharma, 2021
+// Code by Arijit Goswami
