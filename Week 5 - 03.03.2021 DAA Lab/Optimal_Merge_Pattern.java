@@ -6,7 +6,7 @@
 
 import java.util.Scanner; 
 import java.util.PriorityQueue; 
-// Author : Abhishek Sharma
+// Author : Arijit Goswami
 public class Solution { 
 
     static int minComputation(int size, int files[]) 
