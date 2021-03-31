@@ -1,4 +1,4 @@
-# Author : Abhishek Sharma
+# Author : Arijit Goswami
 # Quick Sort using Python
 
 # Input Line :
