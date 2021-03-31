@@ -1,4 +1,4 @@
-# Author : Abhishek Sharma
+# Author : Arijit Goswami
 # Day6 PB3 Huffman Encoding Program solution using Python 3
 # Difficulty : Medium
 # Design and analysis lab week 6 - 17.03.2021
