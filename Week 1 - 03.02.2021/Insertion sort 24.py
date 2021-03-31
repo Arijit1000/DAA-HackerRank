@@ -1,5 +1,5 @@
 # Insertion Sort 24 in Python
-# Author : Abhishek Sharma
+# Author : Arijit Goswami
 
 
 length = int(input())
