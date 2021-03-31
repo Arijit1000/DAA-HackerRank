@@ -1,4 +1,4 @@
-# Author : Abhishek Sharma
+# Author : Arijit Goswami
 # DAA Lab 3
 # Date : 17.02.2021
 # First Problem
