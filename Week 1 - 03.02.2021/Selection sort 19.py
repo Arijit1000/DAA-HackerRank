@@ -1,5 +1,5 @@
 # Selection Sort using Python
-# Author : Abhishek Sharma
+# Author : Arijit Goswami
 
 def selection_sort(user, s, n):
     for i in range (0,s):
