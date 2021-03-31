@@ -30,7 +30,7 @@ freq = list(map(int, input().split()))
 nodes = []
 for x in range(len(chars)):
     nodes.append(node(freq[x], chars[x]))
-# Author : Abhishek Sharma
+# Author : Arijit Goswami
 while len(nodes) > 1:
     nodes = sorted(nodes, key=lambda x: x.freq)
     left = nodes[0]
