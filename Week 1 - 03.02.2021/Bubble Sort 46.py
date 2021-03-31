@@ -1,5 +1,5 @@
 # Bubble Sort using Python
-# Author : Abhishek Sharma
+# Author : Arijit Goswami
 
 n = int(input().strip())
 user= list(map(int, input().split()))
